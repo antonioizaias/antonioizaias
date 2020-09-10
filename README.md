@@ -9,7 +9,11 @@ Enthusiast of the best web & mobile development technologies.
 Always open to collaborating on projects and innovative ideas. Find out more about me and feel free to connect with me.
 
 - 🔭 I’m currently studying Computer Science at [Tiradentes Institute](https://al.unit.br/)
+
 - 🏢 I'm currently working at [Seplag](http://www.seplag.al.gov.br/)
+
 - 💻 I work using: ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python ) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Dart](https://img.shields.io/badge/-Dart-1572B6?style=flat&logo=Dart) ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat&logo=Flutter) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab)
+
 - ⚙️ I also use and work: ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=MySQL&logoColor=white)
+
 - 🌱 Learning all about: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript) ![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=CSS3)
