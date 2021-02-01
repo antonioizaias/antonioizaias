@@ -1,6 +1,6 @@
 # Antônio Izaias
 
-Computer Sciente Student
+Computer Science Student
 
 [![LinkedIn](https://img.shields.io/badge/-antonioizaias-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/antonioizaias/)](https://www.linkedin.com/in/antonioizaias/ "LinkedIn") [![Instagram](https://img.shields.io/badge/-antonioizs-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/antonioizs/)](https://instagram.com/antonioizs "Instagram") [![Telegram](https://img.shields.io/badge/-@antonioizaias-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/antonioizaias/)](https://t.me/antonioizaias "Telegram") [![E-mail](https://img.shields.io/badge/-antonioizaiasgn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antonioizaiasgn@gmail.com?subject=Olá,%20Antônio!%20)](mailto:antonioizaiasgn@gmail.com?subject=Olá,%20Antônio!%20 "E-mail")
 
@@ -8,9 +8,9 @@ Enthusiast of the best web & mobile development technologies.
 
 Always open to collaborating on projects and innovative ideas. Find out more about me and feel free to connect with me.
 
-- 🔭 I’m currently studying Computer Science at [Tiradentes Institute](https://al.unit.br/)
+- 🔭 I’m currently studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
 
-- 🏢 I'm currently working at [Seplag](http://www.seplag.al.gov.br/)
+- 🏢 I'm currently working at [Unique Ingresssos](https://uniqueingressos.com.br/ "Unique Ingressos") and [Gespag](https://www.gespag.com.br/ "Gespag")
 
 - 💻 I work using: ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python ) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Dart](https://img.shields.io/badge/-Dart-1572B6?style=flat&logo=Dart) ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat&logo=Flutter) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab)
 
