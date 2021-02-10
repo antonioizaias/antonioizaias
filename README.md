@@ -10,7 +10,7 @@ Always open to collaborating on projects and innovative ideas. Find out more abo
 
 - 🔭 I’m currently studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
 
-- 🏢 I'm currently working at [Unique Ingresssos](https://uniqueingressos.com.br/ "Unique Ingressos") and [Gespag](https://www.gespag.com.br/ "Gespag")
+- 🏢 I'm currently working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos") and [Gespag](https://github.com/gespag-brasil "Gespag")
 
 - 💻 I work using: ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python ) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Dart](https://img.shields.io/badge/-Dart-1572B6?style=flat&logo=Dart) ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat&logo=Flutter) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab)
 
