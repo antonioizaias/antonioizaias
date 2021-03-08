@@ -2,7 +2,7 @@
 
 Computer Science Student
 
-[![LinkedIn](https://img.shields.io/badge/-antonioizaias-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/antonioizaias/)](https://www.linkedin.com/in/antonioizaias/ "LinkedIn") [![Instagram](https://img.shields.io/badge/-antonioizs-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/antonioizs/)](https://instagram.com/antonioizs "Instagram") [![Telegram](https://img.shields.io/badge/-@antonioizaias-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/antonioizaias/)](https://t.me/antonioizaias "Telegram") [![E-mail](https://img.shields.io/badge/-antonioizaiasgn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antonioizaiasgn@gmail.com?subject=Olá,%20Antônio!%20)](mailto:antonioizaiasgn@gmail.com?subject=Olá,%20Antônio!%20 "E-mail")
+[![LinkedIn](https://img.shields.io/badge/-antonioizaias-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/antonioizaias/)](https://www.linkedin.com/in/antonioizaias/ "LinkedIn") [![Instagram](https://img.shields.io/badge/-antonioizs-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/antonioizs/)](https://instagram.com/antonioizs "Instagram") [![Telegram](https://img.shields.io/badge/-@antonioizaias-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/antonioizaias/)](https://t.me/antonioizaias "Telegram") [![E-mail](https://img.shields.io/badge/-contato@antonioizaias.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contato@antonioizaias.dev?subject=Olá,%20Antônio!%20)](mailto:contato@antonioizaias.dev?subject=Olá,%20Antônio!%20 "E-mail")
 
 Enthusiast of the best web & mobile development technologies. 
 
