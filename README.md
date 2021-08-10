@@ -10,9 +10,9 @@ Always open to collaborating on projects and innovative ideas. Find out more abo
 
 - 🔭 I’m currently studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
 
-- 🏢 I'm currently working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos") and [Gespag Pagamentos](https://github.com/gespag-brasil "Gespag")
+- 🏢 I'm currently working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos") and [Gespag Pagamentos](https://github.com/gespag-brasil "Gespag Pagamentos")
 
-- 💻 I work using: ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart) ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat&logo=django)
+- 💻 I work using: ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart) ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter) ![Python](https://img.shields.io/badge/-Python-4b8bbe?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat&logo=django)
 
 - ⚙️ I also use and work: ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Code](https://img.shields.io/badge/-Code-blue?style=flat&logo=visual-studio-code)
 
