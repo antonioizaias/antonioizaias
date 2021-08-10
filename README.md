@@ -1,19 +1,19 @@
 # Antônio Izaias
 
-Computer Science Student
+Web/Mobile Developer & UX/UI Designer
 
-[![LinkedIn](https://img.shields.io/badge/-antonioizaias-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/antonioizaias/)](https://www.linkedin.com/in/antonioizaias/ "LinkedIn") [![Instagram](https://img.shields.io/badge/-antonioizs-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/antonioizs/)](https://instagram.com/antonioizs "Instagram") [![Telegram](https://img.shields.io/badge/-@antonioizaias-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/antonioizaias/)](https://t.me/antonioizaias "Telegram") [![E-mail](https://img.shields.io/badge/-contato@antonioizaias.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contato@antonioizaias.dev?subject=Olá,%20Antônio!%20)](mailto:contato@antonioizaias.dev?subject=Olá,%20Antônio!%20 "E-mail")
+[![LinkedIn](https://img.shields.io/badge/-antonioizaias-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonioizaias/)](https://www.linkedin.com/in/antonioizaias/ "LinkedIn") [![E-mail](https://img.shields.io/badge/-contato@antonioizaias.dev-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:contato@antonioizaias.dev?subject=Olá,%20Antônio!%20)](mailto:contato@antonioizaias.dev?subject=Olá,%20Antônio!%20 "E-mail")
 
-Enthusiast of the best web & mobile development technologies. 
+Enthusiast of the best web & mobile development technologies.
 
 Always open to collaborating on projects and innovative ideas. Find out more about me and feel free to connect with me.
 
 - 🔭 I’m currently studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
 
-- 🏢 I'm currently working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos") and [Gespag](https://github.com/gespag-brasil "Gespag")
+- 🏢 I'm currently working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos") and [Gespag Pagamentos](https://github.com/gespag-brasil "Gespag")
 
-- 💻 I work using: ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python ) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Dart](https://img.shields.io/badge/-Dart-1572B6?style=flat&logo=Dart) ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat&logo=Flutter) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab)
+- 💻 I work using: ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart) ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat&logo=django)
 
-- ⚙️ I also use and work: ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=PHP) ![Laravel](https://img.shields.io/badge/-Laravel-FCA121?style=flat&logo=Laravel) ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=MySQL&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+- ⚙️ I also use and work: ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Code](https://img.shields.io/badge/-Code-blue?style=flat&logo=visual-studio-code)
 
-- 🌱 Learning all about: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript) ![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=CSS3)
+- 🌱 Learning all about: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=html5&logoColor=white) ![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=css3)
