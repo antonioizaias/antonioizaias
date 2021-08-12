@@ -10,10 +10,10 @@ Always open to collaborating on projects and innovative ideas. Find out more abo
 
 - 🔭 I’m currently studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
 
-- 🏢 I'm currently working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos") and [Gespag Pagamentos](https://github.com/gespag-brasil "Gespag Pagamentos")
+- 🏢 I'm currently working at [Unique Ingresssos](https://uniqueingressos.com.br "Unique Ingressos") and [Gespag Pagamentos](https://www.gespag.com.br "Gespag Pagamentos")
 
 - 💻 I work using: ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart) ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
 
-- ⚙️ I also use and work: ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Code](https://img.shields.io/badge/-Code-blue?style=flat&logo=visual-studio-code) ![Atom](https://img.shields.io/badge/-Atom-5b9a65?style=flat&logo=atom&logoColor=white)
+- ⚙️ I also use and work: ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white) ![Code](https://img.shields.io/badge/-Code-blue?style=flat&logo=visual-studio-code) ![Atom](https://img.shields.io/badge/-Atom-5b9a65?style=flat&logo=atom&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-a259ff?style=flat&logo=figma&logoColor=white)
 
-- 🌱 Learning all about: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-4b8bbe?style=flat&logo=python&logoColor=white) ![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=html5&logoColor=white) ![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=css3)
+- 🌱 Learning all about: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-4b8bbe?style=flat&logo=python&logoColor=white) ![HTML 5](https://img.shields.io/badge/-HTML%205-e34f26?style=flat&logo=html5&logoColor=white) ![CSS 3](https://img.shields.io/badge/-CSS%203-1572b6?style=flat&logo=css3)
