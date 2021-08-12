@@ -1,4 +1,4 @@
-# Antônio Izaias
+# Antônio
 
 Web/Mobile Developer & UX/UI Designer
 
