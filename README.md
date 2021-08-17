@@ -12,8 +12,8 @@ Always open to collaborating on projects and innovative ideas. Find out more abo
 
 - 🏢 I'm currently working at [Unique Ingresssos](https://uniqueingressos.com.br "Unique Ingressos") and [Gespag Pagamentos](https://www.gespag.com.br "Gespag Pagamentos")
 
-- 💻 I work using: ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart) ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
+- 💻 I work using: ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart) ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 
 - ⚙️ I also use and work: ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white) ![Code](https://img.shields.io/badge/-Code-blue?style=flat&logo=visual-studio-code) ![JetBrains Tools](https://img.shields.io/badge/-JetBrains%20Tools-black?style=flat&logo=jetbrains&logoColor=white) ![Silicon](https://img.shields.io/badge/-Silicon-grey?style=flat&logo=apple&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-0162cc?style=flat&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-a259ff?style=flat&logo=figma&logoColor=white)
 
-- 🌱 Learning all about: ![HTML 5](https://img.shields.io/badge/-HTML%205-e34f26?style=flat&logo=html5&logoColor=white) ![CSS 3](https://img.shields.io/badge/-CSS%203-1572b6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-4b8bbe?style=flat&logo=python&logoColor=white)
+- 🌱 Learning all about: ![HTML 5](https://img.shields.io/badge/-HTML%205-e34f26?style=flat&logo=html5&logoColor=white) ![CSS 3](https://img.shields.io/badge/-CSS%203-1572b6?style=flat&logo=css3) ![Python](https://img.shields.io/badge/-Python-4b8bbe?style=flat&logo=python&logoColor=white)
