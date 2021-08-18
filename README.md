@@ -1,6 +1,6 @@
 # Antônio
 
-Web/Mobile Developer & UX/UI Designer
+Web/Mobile Developer Jr.
 
 [![LinkedIn](https://img.shields.io/badge/-antonioizaias-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonioizaias/)](https://www.linkedin.com/in/antonioizaias/ "LinkedIn") [![E-mail](https://img.shields.io/badge/-contato@antonioizaias.dev-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:contato@antonioizaias.dev?subject=Olá,%20Antônio!%20)](mailto:contato@antonioizaias.dev?subject=Olá,%20Antônio!%20 "E-mail") [![Spotify](https://img.shields.io/badge/-Antônio-1ed760?style=flat&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31v4lxyakcfggdlx3dvzzb6mjjzm?si=2b1eb9ecf0f541f2)](https://open.spotify.com/user/31v4lxyakcfggdlx3dvzzb6mjjzm?si=2b1eb9ecf0f541f2 "Spotify")
 
