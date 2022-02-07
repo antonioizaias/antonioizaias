@@ -10,7 +10,7 @@ Always open to collaborating on projects and innovative ideas. Find out more abo
 
 - 🔭 I’m currently studying Computer Science at <a title="Centro Universitário Tiradentes" href="https://al.unit.br/">Tiradentes Institute</a>
 
-- 🏢 I'm currently working at <a title="Gespag Pagamentos" href="https://www.gespag.com.br/">Gespag Pagamentos</a> and <a title="Unique Ingressos" href="https://uniqueingressos.com.br/">Unique Ingressos</a> 
+- 🏢 I'm currently working at <a title="Unique Ingressos" href="https://uniqueingressos.com.br/">Unique Ingressos</a> 
 
 - 💻 I work using: <a title="Dart" href="#"><img src="https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart"></a> <a title="Flutter" href="#"><img src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter"></a> <a title="HTML 5" href="#"><img src="https://img.shields.io/badge/-HTML%205-e34f26?style=flat&logo=html5&logoColor=white"></a> <a title="CSS 3" href="#"><img src="https://img.shields.io/badge/-CSS%203-1572b6?style=flat&logo=css3"></a> <a title="JavaScript" href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript"></a> <a title="React" href="#"><img src="https://img.shields.io/badge/-React-black?style=flat&logo=react"></a>
 
