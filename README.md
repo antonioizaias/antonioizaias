@@ -1,6 +1,6 @@
 # Antônio
 
-Web/Mobile Developer Jr.
+Software Engineer
 
 <a title="LinkedIn" href="https://www.linkedin.com/in/antonioizaias/"><img src="https://img.shields.io/badge/-antonioizaias-blue?style=flat&logo=linkedin&logoColor=white"></a> <a title="Dev.to" href="https://dev.to/antonioizaias/"><img src="https://img.shields.io/badge/-@antonioizaias-black?style=flat&logo=dev.to&logoColor=white"></a> <a title="E-mail" href="mailto:contato@antonioizaias.dev?subject=Olá,%20Antônio!%20"><img src="https://img.shields.io/badge/-contato@antonioizaias.dev-c14438?style=flat&logo=gmail&logoColor=white"></a> <a title="Apple Music" href="https://music.apple.com/profile/antonioizaias/"><img src="https://img.shields.io/badge/-@antonioizaias-grey?style=flat&logo=applemusic&logoColor=white"></a>
 
