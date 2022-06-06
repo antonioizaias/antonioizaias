@@ -8,7 +8,7 @@ Enthusiast of the best web & mobile development technologies.
 
 Always open to collaborating on projects and innovative ideas. Find out more about me and feel free to connect with me.
 
-- 🔭 I’m currently studying Computer Science at <a title="Centro Universitário Tiradentes" href="https://al.unit.br/">Tiradentes Institute</a>
+- 🔭 I’m currently studying Computer Science at <a title="Tiradentes University" href="https://www.unit.br/en/undergraduate">Tiradentes University</a>
 
 - 🏢 I'm currently working at <a title="Alt.bank" href="https://www.altbank.com.br">Alt.bank</a>
 
