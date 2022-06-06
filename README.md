@@ -2,7 +2,7 @@
 
 Software Engineer
 
-<a title="LinkedIn" href="https://www.linkedin.com/in/antonioizaias/"><img src="https://img.shields.io/badge/-antonioizaias-blue?style=flat&logo=linkedin&logoColor=white"></a> <a title="Dev.to" href="https://dev.to/antonioizaias/"><img src="https://img.shields.io/badge/-@antonioizaias-black?style=flat&logo=dev.to&logoColor=white"></a> <a title="Medium" href="https://antonioizaias.medium.com"><img src="https://img.shields.io/badge/-@antonioizaias-black?style=flat&logo=medium"></a> <a title="E-mail" href="mailto:contato@antonioizaias.dev?subject=Olá,%20Antônio!%20"><img src="https://img.shields.io/badge/-contato@antonioizaias.dev-c14438?style=flat&logo=gmail&logoColor=white"></a> <a title="Apple Music" href="https://music.apple.com/profile/antonioizaias/"><img src="https://img.shields.io/badge/-@antonioizaias-grey?style=flat&logo=applemusic&logoColor=white"></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/antonioizaias/"><img src="https://img.shields.io/badge/-antonioizaias-blue?style=flat&logo=linkedin&logoColor=white"></a> <a title="Dev.to" href="https://dev.to/antonioizaias/"><img src="https://img.shields.io/badge/-@antonioizaias-black?style=flat&logo=dev.to&logoColor=white"></a> <a title="E-mail" href="mailto:contato@antonioizaias.dev?subject=Olá,%20Antônio!%20"><img src="https://img.shields.io/badge/-contato@antonioizaias.dev-c14438?style=flat&logo=gmail&logoColor=white"></a> <a title="Spotify" href="https://open.spotify.com/user/31ltuel2raptfhzs6gclhgsz6tne?si=ffe5927259e94f20"><img src="https://img.shields.io/badge/-Antônio-1ED760?style=flat&logo=spotify&logoColor=white"></a>
 
 Enthusiast of the best web & mobile development technologies.
 
