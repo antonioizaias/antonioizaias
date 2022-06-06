@@ -10,7 +10,7 @@ Always open to collaborating on projects and innovative ideas. Find out more abo
 
 - 🔭 I’m currently studying Computer Science at <a title="Tiradentes University" href="https://www.unit.br/en/undergraduate">Tiradentes University</a>
 
-- 🏢 I'm currently working at <a title="Alt.bank" href="https://www.altbank.com.br">Alt.bank</a>
+- 🏢 I'm currently working at <a title="alt.bank" href="https://www.linkedin.com/company/alt-bank/mycompany/">alt.bank</a>
 
 - 💻 I work using: <a title="Dart" href="#"><img src="https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart"></a> <a title="Flutter" href="#"><img src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter"></a>
 
